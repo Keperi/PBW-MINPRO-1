@@ -34,7 +34,9 @@ Navigasi tetap di bagian atas halaman dengan latar belakang hitam dan teks putih
 ```
 
 > 📸 *Screenshot placeholder — Navbar Desktop & Mobile*
-> ![Navbar](assets/screenshots/navbar.png)
+<img width="1919" height="71" alt="image" src="https://github.com/user-attachments/assets/e5e0117e-6764-48d5-b3db-b0584bb15fd5" />
+<img width="474" height="59" alt="image" src="https://github.com/user-attachments/assets/7c684608-9b7e-40ee-9247-7efce4e824b3" />
+
 
 ---
 
