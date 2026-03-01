@@ -340,25 +340,3 @@ MINPRO-PBW-1/
         ├── KC 2.jpg
         └── SC.png
 ```
-
----
-
-## 👤 Author
-
-<table>
-  <tr>
-    <td align="center">
-      <b>Fikri Abiyyu Rahman</b><br>
-      Mahasiswa Sistem Informasi — Universitas Mulawarman<br>
-      <a href="mailto:kepvisual@gmail.com">kepvisual@gmail.com</a>
-    </td>
-  </tr>
-</table>
-
----
-
-<p align="center">
-  Dibuat dengan ❤️ untuk Mini Project Pemrograman Berbasis Web (PBW)
-  <br>
-  Universitas Mulawarman · 2025
-</p>
