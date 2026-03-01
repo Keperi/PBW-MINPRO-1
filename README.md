@@ -44,7 +44,8 @@ Navigasi tetap di bagian atas halaman dengan latar belakang hitam dan teks putih
 Bagian pembuka dengan heading besar bertuliskan *"Creating Visual Stories That Speak."* dan subjudul yang menjelaskan identitas singkat pemilik portofolio.
 
 > 📸 *Screenshot placeholder — Hero Section*
-> ![Hero](assets/screenshots/hero.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/eee32fe8-fabe-486d-bdb5-fc049a9a2362" />
+
 
 ---
 
@@ -57,13 +58,11 @@ Terbagi menjadi beberapa sub-bagian:
 - **Soft Skill** — Riwayat pendidikan, pengalaman kerja, dan pengalaman organisasi
 
 > 📸 *Screenshot placeholder — About Me Section*
-> ![About Me](assets/screenshots/aboutme.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1abcaa6d-4c51-4315-a55a-c3ce735eb8dc" />
 
-> 📸 *Screenshot placeholder — Hard Skill Cards*
-> ![Hard Skills](assets/screenshots/hardskill.png)
+> 📸 *Screenshot placeholder — Hard Skill Cards & Soft Skill Panel*
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/330b5f4d-6635-4101-9849-14e8e5f650ef" />
 
-> 📸 *Screenshot placeholder — Soft Skill Panel*
-> ![Soft Skills](assets/screenshots/softskill.png)
 
 ---
 
@@ -71,7 +70,8 @@ Terbagi menjadi beberapa sub-bagian:
 Galeri sertifikat dalam format grid (3 kolom di desktop, 2 di tablet, 1 di mobile) menggunakan Bootstrap Cards dengan gambar sertifikat, judul, dan penerbit sertifikat.
 
 > 📸 *Screenshot placeholder — Certificates Section*
-> ![Certificates](assets/screenshots/certificates.png)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/553dbec7-8c74-4d01-a124-442848224e5f" />
+
 
 ---
 
